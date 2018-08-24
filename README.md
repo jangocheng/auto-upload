@@ -8,4 +8,4 @@
 # 介绍
 ![1](https://github.com/Eve-1995/auto-upload/blob/master/img/form-container.png)
 
-具体用法演示及源码分析视频请访问 `angular.ink/recommend/auto-upload` 进行查看.
+具体用法演示及源码分析视频请访问 [angular.ink/recommend/auto-upload](angular.ink/recommend/auto-upload) 进行查看.

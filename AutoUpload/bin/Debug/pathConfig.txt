@@ -1,0 +1,3 @@
+C:\Users\Eve\Desktop\presentation\dist
+C:\Users\Eve\Desktop\presentation\test-auto-upload
+C:\Program Files\Git\cmd\git.exe

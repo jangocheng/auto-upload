@@ -1,0 +1,98 @@
+
+2018-08-24 00:05:15 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css1.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html1.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js1.0.txt
+
+2018-08-24 00:05:15 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:07:15 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:07:15 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:10:18 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:10:18 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:10:33 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:10:33 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:19:00 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:19:00 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:19:06 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:19:06 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:24:00 删除文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\A文件夹
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt
+
+2018-08-24 00:24:00 新增文件记录如下
+C:\Users\Eve\Desktop\presentation\test-auto-upload\css2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\html2.0.txt
+C:\Users\Eve\Desktop\presentation\test-auto-upload\index.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\404.html
+C:\Users\Eve\Desktop\presentation\test-auto-upload\js2.0.txt

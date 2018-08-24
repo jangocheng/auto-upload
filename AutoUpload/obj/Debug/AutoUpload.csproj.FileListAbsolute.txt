@@ -1,0 +1,9 @@
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\bin\Debug\AutoUpload.exe.config
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\bin\Debug\AutoUpload.exe
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\bin\Debug\AutoUpload.pdb
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\obj\Debug\AutoUpload.csprojResolveAssemblyReference.cache
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\obj\Debug\AutoUpload.Form1.resources
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\obj\Debug\AutoUpload.Properties.Resources.resources
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\obj\Debug\AutoUpload.csproj.GenerateResource.Cache
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\obj\Debug\AutoUpload.exe
+c:\users\eve\documents\visual studio 2017\Projects\AutoUpload\AutoUpload\obj\Debug\AutoUpload.pdb

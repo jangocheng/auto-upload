@@ -7,4 +7,5 @@
 针对这个问题,这个小工具可以帮助开发者们自动完成这些繁琐的操作.
 # 介绍
 ![1](https://github.com/Eve-1995/auto-upload/blob/master/img/form.png)
+
 具体用法演示及源码分析视频请访问 `angular.ink/recommend/auto-upload` 进行查看.
